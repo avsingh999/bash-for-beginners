@@ -82,3 +82,13 @@ rm foo.txt
 ```bash
 rmdir ../Pythonfiles/
 ```
+
+### cat : Print out the content of a file in the terminal
+```bash
+cat foo.txt
+```
+
+### vi : Open a file in a text editor. Other editors include nano,emacs,vim.
+```bash
+vi foo.txt
+```
